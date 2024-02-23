@@ -1,0 +1,154 @@
+[
+  {
+    "question": "Which planet is known as the `Red Planet`?",
+    "A": "Venus",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Saturn",
+    "correct": "B"
+  },
+  {
+    "question": "What is the capital city of France?",
+    "A": "Berlin",
+    "B": "Rome",
+    "C": "Paris",
+    "D": "Madrid",
+    "correct": "C"
+  },
+  {
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "A": "1492",
+    "B": "1607",
+    "C": "1776",
+    "D": "1498",
+    "correct": "A"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "A": "Elephant",
+    "B": "Blue Whale",
+    "C": "Giraffe",
+    "D": "Polar Bear",
+    "correct": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "A": "Oxygen",
+    "B": "Osmium",
+    "C": "Oganesson",
+    "D": "Oberon",
+    "correct": "A"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "A": "Charles Dickens",
+    "B": "Jane Austen",
+    "C": "William Shakespeare",
+    "D": "Mark Twain",
+    "correct": "C"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "A": "Beijing",
+    "B": "Seoul",
+    "C": "Tokyo",
+    "D": "Bangkok",
+    "correct": "C"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "A": "China",
+    "B": "South Korea",
+    "C": "Japan",
+    "D": "Vietnam",
+    "correct": "C"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "A": "Atlantic Ocean",
+    "B": "Indian Ocean",
+    "C": "Southern Ocean",
+    "D": "Pacific Ocean",
+    "correct": "D"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "A": "Vincent van Gogh",
+    "B": "Pablo Picasso",
+    "C": "Leonardo da Vinci",
+    "D": "Michelangelo",
+    "correct": "C"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "A": "Peso",
+    "B": "Euro",
+    "C": "Real",
+    "D": "Dollar",
+    "correct": "C"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon Dioxide",
+    "D": "Helium",
+    "correct": "B"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "A": "Nile",
+    "B": "Amazon",
+    "C": "Yangtze",
+    "D": "Mississippi",
+    "correct": "B"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "A": "Thomas Edison",
+    "B": "Alexander Graham Bell",
+    "C": "Nikola Tesla",
+    "D": "Marie Curie",
+    "correct": "B"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "A": "Tomato",
+    "B": "Avocado",
+    "C": "Onion",
+    "D": "Lime",
+    "correct": "B"
+  },
+  {
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "A": "Earth",
+    "B": "Neptune",
+    "C": "Uranus",
+    "D": "Mercury",
+    "correct": "A"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "A": "J.K. Rowling",
+    "B": "Harper Lee",
+    "C": "George Orwell",
+    "D": "Ernest Hemingway",
+    "correct": "B"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "A": "Sahara Desert",
+    "B": "Gobi Desert",
+    "C": "Antarctica",
+    "D": "Arabian Desert",
+    "correct": "C"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "A": "1943",
+    "B": "1945",
+    "C": "1950",
+    "D": "1939",
+    "correct": "B"
+  }
+]
